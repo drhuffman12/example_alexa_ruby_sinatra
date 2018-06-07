@@ -1,4 +1,4 @@
-# [Example Alexa Ruby/Sinatra app(https://github.com/drhuffman12/example_alexa_ruby_sinatra)
+# [Example Alexa Ruby/Sinatra app](https://github.com/drhuffman12/example_alexa_ruby_sinatra)
 
 * Goal
     * Create an Amazon Alexa skill that gets triggered when user says: `Alexa log a movement activity on Health Hero for 30 minutes`.
