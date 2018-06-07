@@ -75,17 +75,7 @@ skill:
 
 See below example screenshots:
 
-<img src="doc/screenshots/alexa_skill_setup/1.skill_name.png" width="25%" height="25%" valign="top" />
-
-<img src="doc/screenshots/alexa_skill_setup/2.invocation_name.png" width="25%" height="25%" valign="top" />
-
-<img src="doc/screenshots/alexa_skill_setup/3.add_intent_and_name_it.png" width="25%" height="25%" valign="top" />
-
-<img src="doc/screenshots/alexa_skill_setup/4.utterance_text.png" width="25%" height="25%" valign="top" />
-
-<img src="doc/screenshots/alexa_skill_setup/5.configure_endpoint.png" width="25%" height="25%" valign="top" />
-
-<img src="doc/screenshots/alexa_skill_setup/6.save_and_build_the_model.png" width="25%" height="25%" valign="top"/>
+  - <img src="doc/screenshots/alexa_skill_setup/1.skill_name.png" width="25%" height="25%" valign="top" /> <img src="doc/screenshots/alexa_skill_setup/2.invocation_name.png" width="25%" height="25%" valign="top" /> <img src="doc/screenshots/alexa_skill_setup/3.add_intent_and_name_it.png" width="25%" height="25%" valign="top" /> <img src="doc/screenshots/alexa_skill_setup/4.utterance_text.png" width="25%" height="25%" valign="top" /> <img src="doc/screenshots/alexa_skill_setup/5.configure_endpoint.png" width="25%" height="25%" valign="top" /> <img src="doc/screenshots/alexa_skill_setup/6.save_and_build_the_model.png" width="25%" height="25%" valign="top"/>
 
 ### Testing
 
