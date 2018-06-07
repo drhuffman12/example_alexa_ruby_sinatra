@@ -6,7 +6,6 @@ def debug_request(request)
     request: {
       timestamp: Time.now.utc.inspect,
       method: request.request_method.inspect,
-      form_data: request.form_data?.inspect,
       body: request.body.read
     }
   }
