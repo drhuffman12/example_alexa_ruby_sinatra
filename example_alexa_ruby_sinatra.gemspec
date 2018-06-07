@@ -38,6 +38,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_dependency "sinatra"
+  spec.add_dependency "humanize"
 
   spec.add_development_dependency 'rerun'
   spec.add_development_dependency "bundler", "~> 1.16"
