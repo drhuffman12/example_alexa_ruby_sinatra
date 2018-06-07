@@ -8,9 +8,9 @@ There are several setup steps involved. Click on the links below:
 
 * [Local Development Server Setup](doc/1.LocalDevServerSetup.md)
 
-* [Alexa Skill Setup](2.AlexaSkillSetup.md)
+* [Alexa Skill Setup](doc/2.AlexaSkillSetup.md)
 
-* [Alexa Skill Testing](3.AlexaSkillTesting.md)
+* [Alexa Skill Testing](doc/3.AlexaSkillTesting.md)
 
 * Sensor logger app
   * This would wait for a 'start' notification, then start gathering data, and eventually either speak near your Alexa-enabled device or post the sensor data to your server (which would in turn post the data to your Alexa Skill),
